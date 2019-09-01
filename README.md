@@ -1,7 +1,7 @@
 # -区块链项目白皮书
 <p align="center">
     <img src="https://avatars2.githubusercontent.com/u/6982081?s=460&v=4"
-         height="130">
+         height="80" width="80">
 </p>
 
 <p align="center">
