@@ -1,4 +1,3 @@
-# -区块链项目白皮书
 <p align="center">
     <img src="https://avatars2.githubusercontent.com/u/6982081?s=460&v=4"
          height="80" width="80">
@@ -18,5 +17,5 @@
              alt="license">
     </a>
 </p>
-
+# -区块链项目白皮书
 收集整理各类区块链项目白皮书以及区块链投资学习资料。
